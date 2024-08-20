@@ -5,6 +5,9 @@
 </head>
 <body>
     <h1>Welcome to the PHP PDF App</h1>
-    <a href="fetch_pdfs.php">Fetch PDFs</a>
+    <nav>
+        <a href="fetch_pdfs.php">Fetch PDFs</a> <br/>
+	    <a href="upload_pdf.php">Upload PDF</a>
+    </nav>
 </body>
 </html>
